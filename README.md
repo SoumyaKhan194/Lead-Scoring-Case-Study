@@ -1,5 +1,5 @@
-# Lead_scoring_case_study
-**Completed by Soumya Khan & Sourit Chakraborty.**
+# Lead_scoring_Analysis
+**Completed by Soumya Khan.**
 
 
 **PROBLEM STATEMENT**:
